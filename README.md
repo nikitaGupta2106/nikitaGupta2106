@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **sanghinikita@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NmeSzvvebRzfto9Mz8cKCOuUCaH1uQ3k/view?usp=sharing](https://drive.google.com/file/d/1NmeSzvvebRzfto9Mz8cKCOuUCaH1uQ3k/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Y_j7Sv6-GXUisfiapGD0g4jbdur4ROkQ/view?usp=sharing](https://drive.google.com/file/d/1Y_j7Sv6-GXUisfiapGD0g4jbdur4ROkQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
