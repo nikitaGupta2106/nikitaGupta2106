@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Nikita Gupta</h1>
+<h1 align="center">Hi 👋, I'm Nikita Gupta </h1>
 <p align="center">Passionate and detail-oriented full-stack developer with a focus on Java, HTML, CSS, JavaScript, and React. I have a passion for writing clean code and creating engaging user interfaces. From frontend design to backend functionality, I thrive on building dynamic web applications. With a strong dedication to my craft, I'm eager to contribute my skills and bring ideas to life.</p>
 <br/>
 
