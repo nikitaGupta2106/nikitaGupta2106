@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 <p align="center">Passionate and detail-oriented full-stack developer with a focus on Java, HTML, CSS, JavaScript, and React. I have a passion for writing clean code and creating engaging user interfaces. From frontend design to backend functionality, I thrive on building dynamic web applications. With a strong dedication to my craft, I'm eager to contribute my skills and bring ideas to life.</p>
 <br/>
 
-- 👨‍💻 All of my projects are available at [nikitaGupta2106.github.io](nikitaGupta2106.github.io)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://nikitagupta2106.github.io/)
 
 - 💬 Ask me about **React, JavaScript, Java, HTML, CSS**
 
 - 📫 How to reach me **sanghinikita@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y_j7Sv6-GXUisfiapGD0g4jbdur4ROkQ/view?usp=sharing](https://drive.google.com/file/d/1Y_j7Sv6-GXUisfiapGD0g4jbdur4ROkQ/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Y_j7Sv6-GXUisfiapGD0g4jbdur4ROkQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
